@@ -48,11 +48,7 @@ Tabulation:1
 	
 Cross connection: CIRCUIT DIAGRAM:
 <img width="1280" height="833" alt="image" src="https://github.com/user-attachments/assets/69bf129a-58bb-4a8b-9f1f-09267116e2e5" />
-
-
 Tabulation:2
 <img width="1083" height="601" alt="image" src="https://github.com/user-attachments/assets/793a4a89-efd1-4db2-9b81-4d858f37d90d" />
-
-
 RESULT:
 Thus the staircase wiring is connected and tested.
